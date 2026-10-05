@@ -35,15 +35,10 @@
  * are orthogonal to feed fairness.
  *
  * License:
- * This source file is licensed under the Business Source
- * License 1.1 (BSL 1.1).
+ * This source file is licensed under the MIT License.
+ * See LICENSE for the full license terms.
  *
- * You may read, audit, and discuss this code for transparency
- * and evaluation purposes. You may not deploy this code as part
- * of a production dating service without an explicit license
- * from the copyright holder.
- *
- * © 2026 Mullet Maters
+ * Copyright (c) 2026 Garret Kaye
  */
 
 
