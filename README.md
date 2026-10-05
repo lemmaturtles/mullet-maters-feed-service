@@ -1,4 +1,4 @@
-# Mullet Maters feed service
+# Mullet Maters Feed Service
 
 This repository contains the published implementation of the discovery-feed microservice used by [Mullet Maters](https://mulletmaters.app/), a dating app. The service is deployed on Google Cloud Run and fetches and constructs the discovery feed presented to Mullet Maters clients.
 
